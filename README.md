@@ -13,7 +13,7 @@
 </p>
 
 
-<h3 align="center">Example of how the numbers are calculated</h3>
+<h2 align="center">Example of how the numbers are calculated</h2>
 <p>All data gathered was done using <a href="https://hadzy.com">hadzy.com</a>. Sorted by oldest and 50 comments per page</p>
 <p align="center">
   <a><img src="res\Opera Snapshot_2022-11-26_125010_hadzy.com.png" /></a>
@@ -28,3 +28,13 @@
 <p><b>Total mentions: </b>1188</p>
 
 <p>The rest of them can be found in <a href="calculations.txt">calculations.txt</a></p>
+
+<h2 align="center">Reason for singling out Oni Hasan</h2>
+<p align="center">He is the <b>ONLY</b> person with large columns of comments uploaded at similar times from accounts all commenting the same thing.</p>
+<p align="center">
+  <a><img src="res\alleged bot comments 1.jpg"/></a>
+</p>
+<p align="center">
+  <a><img src="res\alleged bot comments 2.jpg"/></a>
+</p>
+<p align="center">1 or 2 of these look legit. You can also sort by newest comments on <a href="https://www.youtube.com/watch?v=LGvQKaCuH6Q">Jared's video</a> and scroll through to see for yourself.</p>
