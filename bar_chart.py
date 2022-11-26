@@ -11,14 +11,16 @@ total_oni = sum(oni_hasan)
 total_jordan = sum(jordan)
 total_luke = sum(luke)
   
-# heights of bars
-height = [total_tramaine, total_spiro, total_oni, total_jordan, total_luke]
+totals = [total_tramaine, total_spiro, total_oni, total_jordan, total_luke]
   
 # labels for bars
 tick_label = ['Tramaine', 'Spiro', 'Oni Hasan', 'Jordan', 'Luke']
+
+for i in range(0, len(totals)):
+        print(tick_label[i], totals[i])
   
 # plotting a bar chart
-plt.bar(width, height, tick_label = tick_label,
+plt.bar(width, totals, tick_label = tick_label,
         width = 0.8, color = ['red', 'green'])
   
 # naming the x-axis

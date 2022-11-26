@@ -12,6 +12,7 @@ Oni Hasan
 24th: 40 comments from page 32  + (85-32 pages x 50 comments) + 33 from page 86  = 2723 comments
 25th: 17 comments from page 86 + (93-86 pages x 50 comments) + 13 comments from page 94 = 380 comments
 26th: 37 comments in page 94 as of time taken
+Total mentions: 4700
 
 
 Tramaine
@@ -20,6 +21,7 @@ Tramaine
 24th: 22 comments from page 12 + (21-12 pages x 50) + 35 comments from page 22 = 507 comments
 25th: 15 comments from page 22 + (24-22 pages x 50) + 24 from page 25 = 139 comments
 26th: 14 comments in page 25 as of time taken
+Total mentions: 1188
 
 
 Spiro
@@ -28,6 +30,7 @@ Spiro
 24th: (30 comments from page 6) + (2 comments from page 7) = 32 comments
 25th: 15 comments from page 7
 26th: 5 comments from page 7
+Total mentions: 322
 
 
 Jordan
@@ -36,6 +39,7 @@ Jordan
 24th: 8 comments from page 13 + (20-13 pages x 50) + 27 comments from page 21 = 385 comments
 25th: 23 comments from page 21 + 21 comments from page 22 = 44 comments
 26th: 7 comments from page 22 
+Total mentions: 1078
 
 
 Luke
@@ -44,3 +48,4 @@ Luke
 24th: 30 comments from page 10 + (18-10pages x 50) + 27 comments from page 19 = 457 comments
 25th: 23 comments from page 19 + (20-19 pages x 50) + 5 comments from page 21 = 78 comments
 26th: 8 comments from page 21
+Total mentions: 1013
