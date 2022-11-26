@@ -37,4 +37,4 @@
 <p align="center">
   <a><img src="res\alleged bot comments 2.jpg"/></a>
 </p>
-<p align="center">1 or 2 of these look legit. You can also sort by newest comments on <a href="https://www.youtube.com/watch?v=LGvQKaCuH6Q">Jared's video</a> and scroll through to see for yourself.</p>
+<p align="center">Bots vs Bots is pretty hilarious to me. You can also sort by newest comments on <a href="https://www.youtube.com/watch?v=LGvQKaCuH6Q">Jared's video</a> and scroll through to see for yourself.</p>
