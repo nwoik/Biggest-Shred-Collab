@@ -1,5 +1,5 @@
 <h1 align="center">Resources</h1>
-<p>If you want to run the scripts for yourself, you must first install <a href="https://www.python.org/downloads/">python</a></p>
+<p align="center">If you want to run the scripts for yourself, you must first install <a href="https://www.python.org/downloads/">python</a></p>
 
 <h2 align="center">Line Graph</h2>
 <p align="center">The plot starts from Day 1 which is the 22nd of November, when the top 20 video was uploaded.</p>
