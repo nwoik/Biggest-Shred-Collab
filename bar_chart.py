@@ -21,7 +21,7 @@ for i in range(0, len(totals)):
   
 # plotting a bar chart
 plt.bar(width, totals, tick_label = tick_label,
-        width = 0.8, color = ['red', 'green'])
+        width = 0.8, color = ['green', 'green', 'red', 'green', 'green'])
   
 # naming the x-axis
 plt.xlabel('Players')
