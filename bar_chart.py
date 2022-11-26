@@ -24,9 +24,9 @@ plt.bar(width, totals, tick_label = tick_label,
         width = 0.8, color = ['red', 'green'])
   
 # naming the x-axis
-plt.xlabel('x - axis')
+plt.xlabel('Players')
 # naming the y-axis
-plt.ylabel('y - axis')
+plt.ylabel('Comments mentioning them')
 # plot title
 plt.title('Total comments that mention each player')
   
